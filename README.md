@@ -1,12 +1,17 @@
 # mahjong
+
 麻雀の点数計算をするGUIです．符計算はなし．
+
 ## Usage
+
 ```bash
-$ ./mahjong.py
+./mahjong.py
 ```
+
 or
+
 ```bash
-# python3 mahjong.py
+python3 mahjong.py
 ```
 
 ## Example of screen

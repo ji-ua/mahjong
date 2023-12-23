@@ -1,5 +1,4 @@
-import tkinter as tk
-from tkinter import simpledialog, messagebox, Toplevel
+from tkinter import Toplevel
 
 class MenuWindow:
     def __init__(self, root, players, weight=200, height=200):

@@ -1,5 +1,4 @@
 import tkinter as tk
-from tkinter import simpledialog, messagebox, Toplevel
 
 class Menu:
     def __init__(self, root, label, window, items, row=0, column=0):
